@@ -19,13 +19,6 @@ El proyecto se divide en los siguientes pasos:
 8. Predicciones.
 9. Evaluación del modelo final.
 
-# Resultados
-El modelo seleccionado es el Random Forest, 
-
-# Conclusiones
-El modelo seleccionado es capaz de predecir si un cliente tendrá un retraso de 90 días o más con una precisión del 93%. Sin embargo, el recall es bajo
-
-
 ## Preprocesamiento de datos
 
 Se realizo un preprocesamiento de los datos para poder trabajar con ellos de una manera mas facil, se realizo un tratamiento de valores nulos, se eliminaron columnas que no aportaban informacion relevante y se transformaron las variables categoricas a numericas.
@@ -34,9 +27,7 @@ Se realizo un preprocesamiento de los datos para poder trabajar con ellos de una
 
 Se probaron diferentes modelos de machine learning para determinar cual es el mejor modelo para este problema, los modelos que se probaron son los siguientes:
 
-- Regresion Logistica
 - Random Forest
-- Gradient Boosting
 - AdaBoost
 - XgBoost
 - LightGBM
@@ -51,15 +42,10 @@ Se utilizaron diferentes metricas de evaluacion para determinar cual es el mejor
 - F1 Score
 - AUC-ROC
 
-## Conclusiones
+# Resultados
 
-- El mejor modelo para este problema es LightGBM
-- El modelo LightGBM tiene un accuracy de 0.86
-- El modelo LightGBM tiene un precision de 0.86
-- El modelo LightGBM tiene un recall de 0.86
-- El modelo LightGBM tiene un F1 Score de 0.86
-- El modelo LightGBM tiene un AUC-ROC de 0.86
-- El modelo LightGBM tiene un AUC-ROC de 0.86
+
+## Conclusiones
 
 ## Autores
 
