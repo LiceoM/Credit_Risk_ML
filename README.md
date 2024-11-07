@@ -1,4 +1,4 @@
-# Credit_Risk_ML
+# Credit Card Default Risk - Riesgo de Morosidad tarjetas de credito
 
 Este es un proyecto de Ml para predecir el riesgo de crédito, para ello se utiliza un dataset de Kaggle que contiene 1000 registros con 20 variables. 
 
