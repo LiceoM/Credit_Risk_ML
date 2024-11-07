@@ -51,6 +51,15 @@ Se probaron diferentes modelos de machine learning para determinar cual es el me
 
 Se utilizaron diferentes metricas de evaluacion para determinar cual es el mejor modelo, las metricas que se utilizaron son las siguientes:
 
+## Matriz de Confusion
+
+La matriz de confusión es una tabla que permite visualizar y evaluar el desempeño de un modelo de clasificación. Cada celda de la matriz representa una combinación de la clase real y la clase predicha por el modelo.
+
+|           | Predicción Negativa | Predicción Positiva |
+|-----------|---------------------|---------------------|
+| Clase Negativa | Verdaderos Negativos (VN) | Falsos Positivos (FP) |
+| Clase Positiva | Falso Negativos (FN) | Verdaderos Positivos (VP) |
+
 - TP: Verdaderos Positivos (se predijo positivo y es positivo)
 - TN: Verdaderos Negativos (se predijo negativo y es negativo)
 - FP: Falsos Positivos (se predijo positivo pero es negativo)
