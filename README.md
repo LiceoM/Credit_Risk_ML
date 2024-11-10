@@ -54,6 +54,10 @@ The project is divided into the following steps:
 
 # Analisis Exploratorio de Datos (EDA) Dataset AmExpert CodeLab 2021
 
+Puede ver el Notebook del EDA en este [enlace](https://github.com/LiceoM/Credit_Risk_ML/blob/main/Code/EDA.ipynb).
+
+You can view the EDA Notebook at this [link](https://github.com/LiceoM/Credit_Risk_ML/blob/main/Code/EDA.ipynb).
+
 La metodologia de analisis exploratorio de datos consiste en los siguientes pasos:
 
 * Imputacion valores Nulos
