@@ -78,7 +78,7 @@ The methodology for exploratory data analysis consists of the following steps:
 
 Se probaron diferentes modelos de machine learning para determinar cual es el mejor modelo para este problema, los modelos que se probaron son los siguientes:
 
-- Regresion Logistic
+- Logistic Regression
 - KNN
 - Random Forest
 - XgBoost
@@ -152,7 +152,7 @@ After applying four machine learning models to the classification problem, the b
 
 Puedes ver los resultados en el siguiente enlace: [Modelos de Clasificacion](https://github.com/LiceoM/Credit_Risk_ML/blob/main/Code/Classification_models.ipynb)
 
-You can see the results at the following link: [Classification Models]
+You can see the results at the following link: [Classification Models](https://github.com/LiceoM/Credit_Risk_ML/blob/main/Code/Classification_models.ipynb)
 
 
 ### Resultados de los modelos
@@ -176,6 +176,8 @@ You can see the results at the following link: [Classification Models]
 
 El modelo prefijo correctamente 966 de las 969 clases positivas del dataset de prueba. 
 
+The Xgboost model predicted 966 out of 969 Positive Classes in the testing dataset.
+
 ### Metricas del mejos modelo: Xgboost
 
 * Accuracy: 0.9518
@@ -192,7 +194,7 @@ The best model for this classification problem was XGBoost. The model's great ca
 
 ## Autores
 
-- Camilo Prada
+- Camilo Prada [LinkedIn](https://www.linkedin.com/in/andres-prada-4051a2250/)
 
 ## Licencia
 
